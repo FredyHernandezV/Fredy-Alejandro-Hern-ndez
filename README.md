@@ -13,4 +13,5 @@
 1. [cite_start]**[Análisis de Cobertura de Internet en Colombia](https://github.com/FredyHernandezV/Python-projects):** Limpieza de datos gubernamentales y creación de dashboards para toma de decisiones regionales[cite: 40, 42].
 2. [cite_start]**[Smart Home IoT](https://github.com/FredyHernandezV/Arduino_ESP_Smarthome_IoT):** Sistema de captura de variables físicas y automatización basada en persistencia de datos[cite: 46, 48].
 
-[cite_start]📫 **¿Hablamos?** [LinkedIn](https://linkedin.com/in/fredy-hernandez-v) | fredyhvivas@gmail.com [cite: 3, 63]
+📫 **¿Hablamos?** [LinkedIn](https://linkedin.com/in/fredy-hernandez-v) | fredyhvivas@gmail.com
+
